@@ -1,0 +1,5 @@
+﻿  Board.cpp
+  main.cpp
+C:\Users\AlexBuenoVinuales\source\repos\AA2_Ajedrezsol\AA2_Ajedrez\main.cpp(18,26): warning C4101: 'userSetPiece': unreferenced local variable
+  Generating Code...
+C:\Users\AlexBuenoVinuales\source\repos\AA2_Ajedrezsol\AA2_Ajedrez\Board.cpp(101,1): error C4716: 'getPieceByUser': must return a value
