@@ -45,6 +45,8 @@ void initchessboard(char chessboard[BOARD_SIZE][BOARD_SIZE]) {
 	chessboard[BOARD_SIZE-1][bishopYPosR] = WHITE_BISHOP;
 	chessboard[BOARD_SIZE-1][whiteKingYPosL] = WHITE_KING;
 	chessboard[BOARD_SIZE-1][WhiteQueenYPosR] = WHITE_QUEEN;
+
+	std::cout << "hola";
 }
 
 void viewchessboard(char chessboard[BOARD_SIZE][BOARD_SIZE]) {
